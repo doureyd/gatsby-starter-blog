@@ -27,8 +27,7 @@ class Bio extends React.Component {
           }}
         />
         <p>
-          Written by <strong>Doureyd Khelalef</strong> who lives and works in San
-          Francisco building useful things.{' '}
+          Written by <strong>Doureyd Khelalef</strong> who lives and works in Montreal building useful things.{' '}
           <a href="https://twitter.com/doureyd">
             You should follow him on Twitter
           </a>
