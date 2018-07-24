@@ -28,7 +28,7 @@ class Bio extends React.Component {
         />
         <p>
           Written by <strong>Doureyd Khelalef</strong> who lives and works in Montreal building useful things.{' '}
-          <a href="https://twitter.com/doureyd">
+          <a href="https://twitter.com/doureydk">
             You should follow him on Twitter
           </a>
         </p>
